@@ -44,8 +44,8 @@ Portfolio-minimalist/
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/Juancamm01/Portfolio-minimalist.git
-   cd Portfolio-minimalist
+   git clone https://github.com/Juancamm01/Juancamm01.github.io.git
+   cd Juancamm01.github.io
    ```
 
 2. Instala las dependencias:
