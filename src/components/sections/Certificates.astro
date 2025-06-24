@@ -1,0 +1,60 @@
+---
+import Section from "../Section.astro"
+
+import { certificates } from "../../../Resume.json"
+---
+
+<Section title="Certificados">
+  <ul>
+    {
+      certificates.map(({ name, date, issuer, url }) => (
+        <li>
+          <article>
+            <header>
+              <h3>{name}</h3>
+              <time>{new Date(date).toISOString().slice(0, 10)}</time>
+            </header>
+            <p>Emitido por: {issuer}</p>
+            {url && (
+              <a href={url} target="_blank" rel="noopener noreferrer">
+                Ver certificado
+              </a>
+            )}
+          </article>
+        </li>
+      ))
+    }
+  </ul>
+</Section>
+
+<style>
+  ul {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+
+  article h3 {
+    font-weight: 500;
+    color: #111;
+  }
+
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 4px;
+  }
+
+  time {
+    color: #555;
+    font-size: 0.85rem;
+    min-width: 102px;
+  }
+
+  @media (width <= 700px) {
+    time {
+      text-align: right;
+    }
+  }
+</style>

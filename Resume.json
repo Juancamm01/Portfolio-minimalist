@@ -6,7 +6,7 @@
     "email": "Juancmm88@gmail.com",
     "phone": "+56 9 45766111",
     "url": "",
-    "summary": "Desarrollador Web con 1 año de experiencia y formación continua. Vivo en Santiago de Chile y me apasiona la tecnología y el aprendizaje constante. He trabajado en proyectos personales y colaborativos, desarrollando habilidades tanto en frontend como en backend. Busco seguir creciendo profesionalmente en el mundo del desarrollo web.",
+    "summary": "Desarrollador Web en formación con alta motivación y compromiso, Resido en Santiago de Chile y estoy comprometido con el aprendizaje constante en tecnología. Aunque no cuento con un año completo de experiencia formal, he trabajado en proyectos personales y colaborativos donde he desarrollado habilidades en frontend y backend. Busco una oportunidad para demostrar mi capacidad, seguir creciendo profesionalmente y aportar valor real al equipo que confíe en mí. Sé que, si me dan la oportunidad, no se van a arrepentir.",
     "location": {
       "address": "San Eugenio 509",
       "postalCode": "7750000",
@@ -34,59 +34,151 @@
   },
   "work": [
     {
-      "name": "Bartender",
+      "name": "Brunapoli",
       "position": "Jefe De Barra",
-      "url": "",
-      "startDate": "04-09-2023",
-      "endDate": null,
-      "summary": "",
+      "url": null,
+      "startDate": "2024-09-04",
+      "endDate": "2025-06-10",
+      "summary": "Encargado de la atención al cliente en barra, preparación de insumos y bebidas para la venta al público. Responsable de la gestión de inventario y control de pedidos y suministros del área. Coordinación de horarios y supervisión del personal de barra, asegurando un servicio eficiente y de calidad.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": " El Madrileño",
+      "position": "Jefe De Barra",
+      "url": null,
+      "startDate": "2023-04-14",
+      "endDate": "2024-09-01",
+      "summary": "Encargado de la atención al cliente en barra, preparación de insumos y bebidas para la venta al público. Responsable de la gestión de inventario y control de pedidos y suministros del área. Coordinación de horarios y supervisión del personal de barra, asegurando un servicio eficiente y de calidad.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "Prima Bar",
+      "position": "Jefe De Barra y Bartender",
+      "url": null,
+      "startDate": "2019-11-01",
+      "endDate": "2023-04-30",
+      "summary": "Responsable de la producción artesanal de bebidas y preparados especiales: procesos de fermentación, maceración y elaboración de licores derivados. Preparación de hielos artesanales y coordinación de insumos especiales para coctelería. Apoyo en la operación de barra y mantenimiento de estándares de calidad en productos y procesos.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "El Autor",
+      "position": "Jefe De Barra y Bartender",
+      "url": null,
+      "startDate": "2018-05-01",
+      "endDate": "2019-10-31",
+      "summary": "Encargado de la atención al cliente en barra, preparación de insumos y bebidas para la venta al público. Responsable de la gestión de inventario y control de pedidos y suministros del área, asegurando un servicio eficiente y de calidad.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "Claro Telecomunicaciones",
+      "position": "Agente Telefónico Call Center",
+      "url": null,
+      "startDate": "2018-02-01", 
+      "endDate": "2018-04-30",
+      "summary": "Encargado de la atención al cliente, venta de planes de telefonía móvil y cumplimiento de metas comerciales. Responsable del seguimiento postventa, retroalimentación sobre el estado de los servicios contratados y gestión oportuna de solicitudes para garantizar la satisfacción del cliente.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "Tribunal Supremo De Justicia (TSJ)",
+      "position": "Soporte Técnico Informatico",
+      "url": null,
+      "startDate": "2015-09-01",
+      "endDate": "2017-11-30",
+      "summary": "Encargado de la reparación y mantenimiento de hardware y software, incluyendo la actualización de sistemas operativos y configuración de redes. Elaboración de reportes técnicos y seguimiento detallado de cada equipo intervenido para asegurar un funcionamiento óptimo y trazabilidad del servicio.",
       "highlights": [
         ""
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "",
-    "position": "",
-    "url": "",
-    "startDate": "",
-    "endDate": "",
-    "summary": "",
-    "highlights": [
-      ""
-    ]
-  }],
-  "education": [{
-    "institution": "Udemy",
-    "url": "https://www.Udemy.com",
+  "education": [
+    {
+    "institution": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/",
     "area": "Full Stack Developer",
-    "studyType": "",
-    "startDate": "",
-    "endDate": "",
-    "score": "",
+    "studyType": "Porgramacion",
+    "startDate": "2025-04-01",
+    "endDate": null,
+    "score": "24hrs",
     "courses": [
       ""
     ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  },
+  {
+    "institution": "Udemy",
+    "url": "https://www.Udemy.com",
+    "area": "JavaScript",
+    "studyType": "Porgramacion",
+    "startDate": "2025-01-24",
+    "endDate": "2025-04-30",
+    "score": "24hrs",
+    "courses": [
+      ""
+    ]
+  },
+  {
+    "institution": "Platzi",
+    "url": "https://platzi.com/",
+    "area": "Git y Github",
+    "studyType": "Porgramacion",
+    "startDate": "2023-04-07",
+    "endDate": "2023-06-07",
+    "score": "24hrs",
+    "courses": [
+      ""
+    ]
+  },
+  {
+    "institution": "Udemy",
+    "url": "https://www.Udemy.com",
+    "area": "Pyton",
+    "studyType": "Porgramacion",
+    "startDate": "2022-04-07",
+    "endDate": "2022-06-07",
+    "score": "24hrs",
+    "courses": [
+      ""
+    ]
+  },
+  {
+    "institution": "Universidad de Tecnología Antonio José de Sucre",
+    "url": "http://www.uts.edu.ve/",
+    "area": "Tectico Superior en Informática",
+    "studyType": "tecnico",
+    "startDate": "2008-04-07",
+    "endDate": "2012-06-07",
+    "score": "24hrs",
+    "courses": [
+      ""
+    ]
+  }
+],
+  "certificates": [
+    {
+    "name": "Curso Profesional De Git y Github",
+    "date": "2023-04-10",
+    "issuer": "Platzi",
+    "url": "https://platzi.com/p/juancmm88/curso/1557-course/diploma/detalle/"
+  },
+    {
+    "name": "Programacion En Python3",
+    "date": "2022-11-07",
+    "issuer": "Udemy",
+    "url": "https://udemy-certificate.s3.amazonaws.com/image/UC-1b122919-e57a-49d2-9c21-01652fbad7d2.jpg"
+  }
+  
+],
+
+
   "skills": [
     {
       "name": "HTML",
@@ -166,27 +258,6 @@
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "Spanish",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Advanced"
-    }
-  ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
   "projects": [
     {
       "name": "mars.codes",
