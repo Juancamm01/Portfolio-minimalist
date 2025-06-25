@@ -16,6 +16,7 @@ import SwiftUI from "../../icons/swiftui.astro"
 import Kotlin from "../../icons/kotlin.astro"
 import Flutter from "../../icons/flutter.astro"
 import { skills } from "../../../Resume.json"
+import AstroFramework from "../../icons/Astro.astro"
 
 const SKILLS_ICONS: Record<string, any> = {
   HTML,
@@ -33,19 +34,27 @@ const SKILLS_ICONS: Record<string, any> = {
   SwiftUI,
   Kotlin,
   Flutter,
+  AstroFramework, 
+}
+
+function getDisplayName(name: string) {
+  if (name === "AstroFramework") return "Astro"
+  if (name === "Next") return "Next.js"
+  return name
 }
 ---
+
 
 <Section title="Habilidades">
   <ul>
     {
       skills.map(({ name }) => {
-        const iconName = name === "Next.js" ? "Next" : name
+        const iconName = name === "Next.js" ? "Next" : name === "Astro" ? "AstroFramework" : name
         const Icon = SKILLS_ICONS[iconName]
 
         return (
           <li>
-            {Icon && <Icon />} <span>{name}</span>
+            {Icon && <Icon />} <span>{getDisplayName(name)}</span>
           </li>
         )
       })
