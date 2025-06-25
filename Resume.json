@@ -260,14 +260,13 @@
   ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Invexis App",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "va hacer una aplicacion web para hacer inventarios de productos de un restaurante o bar",
       "highlights": [
-        "Elige tu propia aventura",
         "En desarrollo"
       ],
-      "url": "https://mars.codes"
+      "url": "invexis-app.netlify.app"
     },
     {
       "name": "AdventJS",
