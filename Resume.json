@@ -6,7 +6,7 @@
     "email": "Juancmm88@gmail.com",
     "phone": "+56 9 45766111",
     "url": "juancamm01.netlify.app",
-    "summary": "Desarrollador Web en formación con alta motivación y compromiso, Resido en Santiago de Chile y estoy comprometido con el aprendizaje constante en tecnología. Aunque no cuento con un año completo de experiencia formal, he trabajado en proyectos personales y colaborativos donde he desarrollado habilidades en frontend y backend. Busco una oportunidad para demostrar mi capacidad, seguir creciendo profesionalmente y aportar valor real al equipo que confíe en mí. Sé que, si me dan la oportunidad, no se van a arrepentir.",
+    "summary": "Desarrollador Web con alta motivación y compromiso, resido en Santiago de Chile. Mi pasión por la tecnología me impulsa al aprendizaje constante y la mejora continua. He desarrollado sólidas habilidades en frontend y backend a través de proyectos personales y colaborativos, donde he demostrado mi capacidad técnica y de resolución de problemas. Busco una oportunidad para seguir creciendo profesionalmente y aportar valor real al equipo. Estoy preparado para enfrentar nuevos desafíos y contribuir desde el primer día con mi dedicación, conocimientos técnicos y ganas de hacer la diferencia.",
     "location": {
       "address": "San Eugenio 509",
       "postalCode": "7750000",
@@ -34,45 +34,12 @@
   },
   "work": [
     {
-      "name": "Brunapoli",
-      "position": "Jefe De Barra",
+      "name": "Restaurantes: Brunapoli, El Madrileño, Prima Bar, El Autor",
+      "position": "Cargo: Jefe De Barra, Bartender",
       "url": null,
-      "startDate": "2024-09-04",
+      "startDate": "2018-09-04",
       "endDate": "2025-06-10",
       "summary": "Encargado de la atención al cliente en barra, preparación de insumos y bebidas para la venta al público. Responsable de la gestión de inventario y control de pedidos y suministros del área. Coordinación de horarios y supervisión del personal de barra, asegurando un servicio eficiente y de calidad.",
-      "highlights": [
-        ""
-      ]
-    },
-    {
-      "name": " El Madrileño",
-      "position": "Jefe De Barra",
-      "url": null,
-      "startDate": "2023-04-14",
-      "endDate": "2024-09-01",
-      "summary": "Encargado de la atención al cliente en barra, preparación de insumos y bebidas para la venta al público. Responsable de la gestión de inventario y control de pedidos y suministros del área. Coordinación de horarios y supervisión del personal de barra, asegurando un servicio eficiente y de calidad.",
-      "highlights": [
-        ""
-      ]
-    },
-    {
-      "name": "Prima Bar",
-      "position": "Jefe De Barra y Bartender",
-      "url": null,
-      "startDate": "2019-11-01",
-      "endDate": "2023-04-30",
-      "summary": "Responsable de la producción artesanal de bebidas y preparados especiales: procesos de fermentación, maceración y elaboración de licores derivados. Preparación de hielos artesanales y coordinación de insumos especiales para coctelería. Apoyo en la operación de barra y mantenimiento de estándares de calidad en productos y procesos.",
-      "highlights": [
-        ""
-      ]
-    },
-    {
-      "name": "El Autor",
-      "position": "Jefe De Barra y Bartender",
-      "url": null,
-      "startDate": "2018-05-01",
-      "endDate": "2019-10-31",
-      "summary": "Encargado de la atención al cliente en barra, preparación de insumos y bebidas para la venta al público. Responsable de la gestión de inventario y control de pedidos y suministros del área, asegurando un servicio eficiente y de calidad.",
       "highlights": [
         ""
       ]
